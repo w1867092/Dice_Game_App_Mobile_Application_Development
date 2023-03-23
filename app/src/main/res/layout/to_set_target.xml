@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#32003A"
+    android:layout_gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="333dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="97dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="97dp"
+        android:layout_marginBottom="25dp"
+        android:textColor="#FFA6C5"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/set_score_witch_you_want_to_compete"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edit_text_score"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:inputType="number"
+        android:layout_marginBottom="20dp"
+        android:textSize="26sp"
+        android:textColor="#00072E"
+        android:background="#FFA6C5"
+        android:autofillHints="abc"/>
+
+    <Button
+        android:id="@+id/button_save_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded_button"
+        android:text="Set"/>
+
+    <Button
+        android:id="@+id/button_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10sp"
+        android:background="@drawable/rounded_button"
+        android:text="Cancel"/>
+
+</LinearLayout>
+

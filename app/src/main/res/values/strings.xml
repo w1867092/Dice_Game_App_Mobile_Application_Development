@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">mobile_course_work</string>
+    <string name="dice_game">DICE GAME</string>
+    <string name="about">About</string>
+    <string name="new_game">New Game</string>
+    <string name="todo">TODO</string>
+    <string name="dice_head">dice game</string>
+    <string name="kumod_hansidu">Kumod Hansidu</string>
+    <string name="w1867092">w1867092</string>
+    <string name="message">I confirm that I understand what plagiarism is and have read and
+        understood the section on Assessment Offences in the Essential Information for Students.
+        The work that I have submitted is entirely my own. Any work from other authors is duly
+        referenced and acknowledged.</string>
+    <string name="button">Button</string>
+    <string name="Score">Score</string>
+    <string name="buttoncba">Button</string>
+    <string name="you">You - </string>
+    <string name="computer">Computer - </string>
+    <string name="sccorecom"> 0 </string>
+    <string name="scoreyou"> 0 </string>
+    <string name="target_101">Target - 101 ✒️</string>
+    <string name="reroll">ReRoll</string>
+    <string name="Throw">Throw</string>
+    <string name="row_1_img_1">row_1_img_1</string>
+    <string name="row_1_img_2">row_1_img_2</string>
+    <string name="row_1_img_3">row_1_img_3</string>
+    <string name="row_2_img_1">row_2_img_1</string>
+    <string name="row_2_img_2">row_2_img_2</string>
+    <string name="row_4_img_1">row_4_img_1</string>
+    <string name="row_4_img_2">row_4_img_2</string>
+    <string name="row_4_img_3">row_4_img_3</string>
+    <string name="row_3_img_1">row_3_img_1</string>
+    <string name="row_3_img_2">row_3_img_2</string>
+    <string name="your_dices">Your Dices</string>
+    <string name="computer_dices">Computer Dices</string>
+    <string name="set_score_witch_you_want_to_compete">Set score witch you want to compete</string>
+    <string name="back">Back</string>
+    <string name="h_0_c_0">H:0 / C:0</string>
+</resources>
